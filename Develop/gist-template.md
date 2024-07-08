@@ -60,5 +60,6 @@ q(?!u) negative lookahead
 q(?=u) positive lookahead
 ## Author
 
+https://github.com/AkcCodes
 AkcCodes is currently a student of the Full-Stack Web development course by way of the University of Minnesota.
 

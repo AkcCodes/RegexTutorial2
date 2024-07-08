@@ -11,7 +11,7 @@ The purpose of this excercise was to create a gist file containing a tutorial on
 
 ## Installation
 
-1. Got to github.com/AkcCodes/RegexTutorial2
+1. Got to [github.com/AkcCodes/RegexTutorial2]
 2. Clone the repository to Visual Code
 
 ## What I Learned?
